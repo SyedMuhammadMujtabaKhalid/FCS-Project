@@ -1,0 +1,20 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Data files (Since script downloads them, we don't need to push csv files if any are saved locally)
+*.csv
+*.zst
+*.json
+
+# Python caches
+__pycache__/
+*.pyc
+
+# OS generated files
+.DS_Store
+Thumbs.db
