@@ -6,10 +6,11 @@ venv/
 env/
 .env
 
-# Data files (Since script downloads them, we don't need to push csv files if any are saved locally)
-*.csv
+# Generated output CSV (created by notebook)
+final_df.csv
+
+# Compressed data files
 *.zst
-*.json
 
 # Python caches
 __pycache__/
