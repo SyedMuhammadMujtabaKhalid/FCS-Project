@@ -1,4 +1,4 @@
-# Trending YouTube Dataset Analysis - FCS 2025-26 Project 1
+# Trending YouTube Dataset Analysis - FCS Project 
 
 ## Overview
 This repository contains a Jupyter Notebook project for analyzing the "Trending YouTube Dataset". The project downloads and decompresses YouTube trending data across multiple countries, concatenates it into a single Pandas DataFrame, and performs various data manipulations, aggregations, and analyses.
